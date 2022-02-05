@@ -47,7 +47,15 @@ slick-util.jar
 ## Ejecutando las pruebas ⚙️
 
 _En netbeans f6 para ejecutar el programa y apareceran la siguiente ventana_
-[![Puntos-3-2022-02-05-15-34-40-online-video-cutter-com.gif](https://i.postimg.cc/hvywydLh/Puntos-3-2022-02-05-15-34-40-online-video-cutter-com.gif)](https://postimg.cc/m198hh6G)
+Para poder moverte en el esenario creado es necesario precionar las teclas:
+- w = Avanza hacia enfrente
+- a = Avanza a la izquierda
+- s = Retrocede
+- d= Azanza a la derecha 
+- Shift = Corre
+- Space = Salta
+[![inicio.png](https://i.postimg.cc/dQHNZmDb/inicio.png)](https://postimg.cc/kDSvkSQs)
+[![dos.png](https://i.postimg.cc/5NDPn4Bp/dos.png)](https://postimg.cc/Xpccv0Dy)
 
 ## Construido con 🛠️
 
